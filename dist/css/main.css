@@ -5539,7 +5539,7 @@
     margin: 0;
 }
 @font-face {
-    font-family: Font awesome\5 Brands;
+    font-family: Font Awesome\5 Brands;
     font-style: normal;
     font-weight: 400;
     src: url(/fonts/fa-brands-400.eot?c3c4676637bae7e45fb215f7d58dd5f1);
@@ -5548,10 +5548,10 @@
         url(/fonts/fa-brands-400.svg?9c9373d982a9512a8c5c5efe831e5442#fontawesome) format("svg");
 }
 .fab {
-    font-family: Font awesome\5 Brands;
+    font-family: Font Awesome\5 Brands;
 }
 @font-face {
-    font-family: Font awesome\5 Pro;
+    font-family: Font Awesome\5 Pro;
     font-style: normal;
     font-weight: 300;
     src: url(/fonts/fa-light-300.eot?7c2d0adc7fc8b758a0fc0a5d8a8b89d3);
@@ -5563,7 +5563,7 @@
     font-weight: 300;
 }
 @font-face {
-    font-family: Font awesome\5 Pro;
+    font-family: Font Awesome\5 Pro;
     font-style: normal;
     font-weight: 400;
     src: url(/fonts/fa-regular-400.eot?cc440dd7a1f2f87b49fa5c8744c284e0);
@@ -5573,13 +5573,13 @@
 }
 .fal,
 .far {
-    font-family: Font awesome\5 Pro;
+    font-family: Font Awesome\5 Pro;
 }
 .far {
     font-weight: 400;
 }
 @font-face {
-    font-family: Font awesome\5 Pro;
+    font-family: Font Awesome\5 Pro;
     font-style: normal;
     font-weight: 900;
     src: url(/fonts/fa-solid-900.eot?1dac132e5f4d2c29408d32ca38ea8987);
@@ -5589,7 +5589,7 @@
 }
 .fa,
 .fas {
-    font-family: Font awesome\5 Pro;
+    font-family: Font Awesome\5 Pro;
     font-weight: 900;
 } /*! jQuery UI - v1.12.1 - 2016-09-14
 * http://jqueryui.com
@@ -10974,7 +10974,7 @@ div.table-responsive > div.dataTables_wrapper > div.row > div[class^="col-"]:las
 .datepicker table tr td.today:active,
 .datepicker table tr td.today:hover.active,
 .datepicker table tr td.today:hover:active {
-    background-color: #fbf069;
+    background-color: #fbf069\9;
 }
 .datepicker table tr td.today:hover:hover {
     color: #000;
@@ -11032,7 +11032,7 @@ div.table-responsive > div.dataTables_wrapper > div.row > div[class^="col-"]:las
 .datepicker table tr td.range.today:active,
 .datepicker table tr td.range.today:hover.active,
 .datepicker table tr td.range.today:hover:active {
-    background-color: #efe249;
+    background-color: #efe24b\9;
 }
 .datepicker table tr td.selected,
 .datepicker table tr td.selected.disabled,
@@ -11078,7 +11078,7 @@ div.table-responsive > div.dataTables_wrapper > div.row > div[class^="col-"]:las
 .datepicker table tr td.selected:active,
 .datepicker table tr td.selected:hover.active,
 .datepicker table tr td.selected:hover:active {
-    background-color: #6669;
+    background-color: #666\9;
 }
 .datepicker table tr td.active,
 .datepicker table tr td.active.disabled,
@@ -11124,7 +11124,7 @@ div.table-responsive > div.dataTables_wrapper > div.row > div[class^="col-"]:las
 .datepicker table tr td.active:active,
 .datepicker table tr td.active:hover.active,
 .datepicker table tr td.active:hover:active {
-    background-color: #0399;
+    background-color: #039\9;
 }
 .datepicker table tr td span {
     display: block;
@@ -11190,7 +11190,7 @@ div.table-responsive > div.dataTables_wrapper > div.row > div[class^="col-"]:las
 .datepicker table tr td span.active:active,
 .datepicker table tr td span.active:hover.active,
 .datepicker table tr td span.active:hover:active {
-    background-color: #0399;
+    background-color: #039\9;
 }
 .datepicker table tr td span.new,
 .datepicker table tr td span.old {
@@ -25087,7 +25087,7 @@ h6 {
 }
 .sidebar .nav-item.nav-dropdown .nav-dropdown-toggle:before {
     content: "\F107";
-    font-family: Font awesome\5 Pro;
+    font-family: Font Awesome\5 Pro;
     font-size: 0.9rem;
     font-weight: 300;
     background: none;
@@ -26962,7 +26962,7 @@ a.btn-effect:hover .button-text {
     position: relative;
 }
 .dropdown-toggle:after {
-    font-family: Font awesome\5 Pro;
+    font-family: Font Awesome\5 Pro;
     content: "\F107";
     font-weight: 300;
     border: none;
